@@ -1,0 +1,1 @@
+in order to access my code, you will first need to run it. this can be done through any install of python 3.9, after the code is run, an login window will appear. For the first time access of the system there is a user with credinationals username:u1 password:p1 this will allow you to get into the system and and create new profiles etc.
